@@ -20,7 +20,7 @@ Ensure you have EnergyPlus software installed.
 ## Using Colab
 Feel free to use the provided [Colab notebook](EnergyPlus_API%20Colab.ipynb).
 
-Make sure to add Ngrok Authentication Token the secrets in the notebook with the name `NGROK_AUTH_TOKEN`
+Make sure to add Ngrok Authentication Token to colab secrets with the name `NGROK_AUTH_TOKEN`
 
 ## Usage
 
